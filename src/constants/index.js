@@ -145,7 +145,7 @@ import {
         },
       ],
       image: react1,
-      source_link: "https://github.com/Swatiyadavv/Eventt_Management",
+      source_link: "https://eventt-management.vercel.app/",
       source_code_link: "https://github.com/Swatiyadavv/Eventt_Management",
     },
     
