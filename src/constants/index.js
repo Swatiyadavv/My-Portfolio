@@ -191,8 +191,8 @@ import {
         },
       ],
       image: hlo,
-      source_link: "my-portfolio-rose-nu-66.vercel.app/",
-      source_code_link: "https://github.com/Swatiyadavv/My_portfolio",
+      source_link: "my-portfolio-sepia-kappa-49.vercel.app",
+      source_code_link: "https://github.com/Swatiyadavv/My-Portfolio.git",
     }
     
   ];
