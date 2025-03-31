@@ -145,7 +145,7 @@ import {
         },
       ],
       image: react1,
-      source_link: "eventt-management.vercel.app",
+      source_link: "https://github.com/Swatiyadavv/Eventt_Management",
       source_code_link: "https://github.com/Swatiyadavv/Eventt_Management",
     },
     
@@ -191,7 +191,7 @@ import {
         },
       ],
       image: hlo,
-      source_link: "my-portfolio-sepia-kappa-49.vercel.app",
+      source_link: "https://my-portfolio-sepia-kappa-49.vercel.app/",
       source_code_link: "https://github.com/Swatiyadavv/My-Portfolio.git",
     }
     
